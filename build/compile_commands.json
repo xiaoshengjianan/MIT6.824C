@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/jane/MIT6.824test/build",
+  "command": "/usr/bin/g++ -I../MIT6824/include -g -std=c++14 -o MIT6824/CMakeFiles/MASTER.dir/src/master_main.cpp.o -c /home/jane/MIT6.824test/MIT6824/src/master_main.cpp",
+  "file": "/home/jane/MIT6.824test/MIT6824/src/master_main.cpp"
+},
+{
+  "directory": "/home/jane/MIT6.824test/build",
+  "command": "/usr/bin/g++ -I../MIT6824/include -g -std=c++14 -o MIT6824/CMakeFiles/WORKER.dir/src/worker_main.cpp.o -c /home/jane/MIT6.824test/MIT6824/src/worker_main.cpp",
+  "file": "/home/jane/MIT6.824test/MIT6824/src/worker_main.cpp"
+},
+{
+  "directory": "/home/jane/MIT6.824test/build",
+  "command": "/usr/bin/g++ -Dmaster_EXPORTS -I../MIT6824/include -g -fPIC -std=c++14 -o MIT6824/CMakeFiles/master.dir/src/master.cpp.o -c /home/jane/MIT6.824test/MIT6824/src/master.cpp",
+  "file": "/home/jane/MIT6.824test/MIT6824/src/master.cpp"
+},
+{
+  "directory": "/home/jane/MIT6.824test/build",
+  "command": "/usr/bin/g++ -Dworker_EXPORTS -I../MIT6824/include -g -fPIC -std=c++14 -o MIT6824/CMakeFiles/worker.dir/src/worker.cpp.o -c /home/jane/MIT6.824test/MIT6824/src/worker.cpp",
+  "file": "/home/jane/MIT6.824test/MIT6824/src/worker.cpp"
+},
+{
+  "directory": "/home/jane/MIT6.824test/build",
+  "command": "/usr/bin/g++ -g -std=c++14 -o buttonrpc-master/CMakeFiles/main.dir/main.cpp.o -c /home/jane/MIT6.824test/buttonrpc-master/main.cpp",
+  "file": "/home/jane/MIT6.824test/buttonrpc-master/main.cpp"
+}
+]

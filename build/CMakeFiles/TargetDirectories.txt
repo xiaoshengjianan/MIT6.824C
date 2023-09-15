@@ -1,0 +1,12 @@
+/home/jane/MIT6.824test/build/CMakeFiles/rebuild_cache.dir
+/home/jane/MIT6.824test/build/CMakeFiles/edit_cache.dir
+/home/jane/MIT6.824test/build/MIT6824/CMakeFiles/edit_cache.dir
+/home/jane/MIT6.824test/build/MIT6824/CMakeFiles/MASTER.dir
+/home/jane/MIT6.824test/build/MIT6824/CMakeFiles/rebuild_cache.dir
+/home/jane/MIT6.824test/build/MIT6824/CMakeFiles/WORKER.dir
+/home/jane/MIT6.824test/build/MIT6824/CMakeFiles/master.dir
+/home/jane/MIT6.824test/build/MIT6824/CMakeFiles/worker.dir
+/home/jane/MIT6.824test/build/buttonrpc-master/CMakeFiles/rebuild_cache.dir
+/home/jane/MIT6.824test/build/buttonrpc-master/CMakeFiles/buttonrpc.dir
+/home/jane/MIT6.824test/build/buttonrpc-master/CMakeFiles/edit_cache.dir
+/home/jane/MIT6.824test/build/buttonrpc-master/CMakeFiles/main.dir

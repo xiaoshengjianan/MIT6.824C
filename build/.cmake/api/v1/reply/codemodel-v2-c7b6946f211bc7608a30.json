@@ -1,0 +1,134 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "MIT6824",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MIT6824",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "buttonrpc-master",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "buttonrpc-master",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "MIT6824",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MASTER::@291d0b2bba33dff5ec37",
+					"jsonFile" : "target-MASTER-Debug-ad8f1df5f9c57dbbfdc1.json",
+					"name" : "MASTER",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "WORKER::@291d0b2bba33dff5ec37",
+					"jsonFile" : "target-WORKER-Debug-98663f267999efeb4afc.json",
+					"name" : "WORKER",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "buttonrpc::@7c9d9953caea1c8d937b",
+					"jsonFile" : "target-buttonrpc-Debug-629acb0e25dc12fe925f.json",
+					"name" : "buttonrpc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "main::@7c9d9953caea1c8d937b",
+					"jsonFile" : "target-main-Debug-efa7994c3e14ad48db29.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "master::@291d0b2bba33dff5ec37",
+					"jsonFile" : "target-master-Debug-0011a9aa08e3cc68a643.json",
+					"name" : "master",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "worker::@291d0b2bba33dff5ec37",
+					"jsonFile" : "target-worker-Debug-8124325a038126259ddd.json",
+					"name" : "worker",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jane/MIT6.824test/build",
+		"source" : "/home/jane/MIT6.824test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
